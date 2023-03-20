@@ -21,7 +21,7 @@
 
 # 📖 [Fighting Game] <a name="about-project"></a>
 
-> Fighting Game is a game website that 2 player can play a fighthing game or let the computer plays the two part players part.
+> Fighting Game is a game website where two players can play a fighting game or let the computer plays the two players' part.
 
 ![image]()
 

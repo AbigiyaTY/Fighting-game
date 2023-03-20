@@ -23,7 +23,7 @@
 
 > Fighting Game is a game website where two players can play a fighting game or let the computer plays the two players' part.
 
-![image]()
+![image](https://user-images.githubusercontent.com/98043302/226449657-bd317ba0-0587-46ab-8b25-1280c3c3022f.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
